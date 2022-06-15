@@ -4,7 +4,7 @@
 
 int main() {
 	int size;
-	cout << "Enter size:" << endl;
+	cout << "size:" << endl;
 	cin >> size;
 	vector<Animal*> zoo;
 	string color[4] = { "Red", "Yellow", "Green", "Gray" };
